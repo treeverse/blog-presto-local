@@ -1,0 +1,18 @@
+<configuration>
+    <property>
+        <name>fs.s3a.access.key</name>
+        <value>[YOUR_ACCESS_KEY]</value>
+    </property>
+    <property>
+    <name>fs.s3a.secret.key</name>
+    <value>[YOUR_SECRET_KEY]</value>
+    </property>
+    <property>
+        <name>fs.s3a.path.style.access</name>
+        <value>true</value>
+    </property>
+    <!--    <property>-->
+    <!--        <name>fs.s3a.endpoint</name>-->
+    <!--        <value>[WANTED_ENDPOINT]</value>-->
+    <!--    </property>-->
+</configuration>
